@@ -10,7 +10,7 @@ const map = new mapboxgl.Map({
 map.on('load', () => {
     map.addSource('heatrelief-data', {
         type: 'geojson',
-        data: 'https://raw.githubusercontent.com/natalikec/Lab2_data/main/Air%20Conditioned%20and%20Cool%20Spaces.geojson'
+        data: 'https://raw.githubusercontent.com/natalikec/Lab2/main/Air%20Conditioned%20and%20Cool%20Spaces.geojson'
     });
     map.addLayer({
         'id': 'center-points',
