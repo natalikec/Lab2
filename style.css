@@ -1,6 +1,33 @@
+/* Map Container*/
 .map-container {
     position: absolute;
-    top: 0;
+    top: 9%;
+    /* move map down to leave space for navbar */
     bottom: 0;
+    /* map reaches the bottom of the screen*/
     width: 100%;
+    /* map fills the width of the page*/
+    z-index: 0;
+    /* map will be below the heading*/
+}
+/* Heading configurations*/
+.container > div {
+    position: relative; 
+    /* positioning the heading relative to the container below*/
+    z-index: 1;
+    /* heading will be above the map*/
+}
+.container > div {
+    background-color: #f9f7f6a9;
+    /* gives the container for the heading a semi-transparent background*/
+    padding: 5px;
+    /* gives 5 point padding space between container border and words*/
+    border-radius: 5px;
+    /* creates rounded corners for the container*/
+    box-shadow: 0 0 1px #4343435a;
+    /* creates shadow around the container*/
+    max-width: 800px;
+    /* maximum width of the container to fit the title on a laptop screen, minimizing map obstruction*/
+    margin: 0 auto;
+    /* centers the container when screen size changes */
 }
