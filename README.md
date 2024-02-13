@@ -10,6 +10,6 @@ The map displaces a pop-up when a point feature is clicked, showing the type of 
 THe navigation bar includes links to Toronto's heat Relief Strategy and Climate Atlas of Canada's Urban Heat Island information page. 
 
 ### Data Sources 
-- Point Feature: [Heat Relief Network]([url](https://open.toronto.ca/dataset/air-conditioned-and-cool-spaces-heat-relief-network/)) 
-- Polygon Feature: [Green Spaces]([url](https://open.toronto.ca/dataset/green-spaces/)https://open.toronto.ca/dataset/green-spaces/)
+- Point Feature: [Heat Relief Network([url](https://open.toronto.ca/dataset/air-conditioned-and-cool-spaces-heat-relief-network/)] 
+- Polygon Feature: [Green Spaces([url](https://open.toronto.ca/dataset/green-spaces/)https://open.toronto.ca/dataset/green-spaces/)]
   
