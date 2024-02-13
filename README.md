@@ -11,5 +11,5 @@ THe navigation bar includes links to Toronto's heat Relief Strategy and Climate 
 
 ### Data Sources 
 - Point Feature: [Heat Relief Network](https://open.toronto.ca/dataset/air-conditioned-and-cool-spaces-heat-relief-network/)
-- Polygon Feature: [Green Space](https://open.toronto.ca/dataset/green-spaces/)https://open.toronto.ca/dataset/green-spaces/)
+- Polygon Feature: [Green Space](https://open.toronto.ca/dataset/green-spaces/)
   
